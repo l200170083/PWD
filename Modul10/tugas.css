@@ -1,0 +1,28 @@
+body
+{
+    background:lemonchiffon
+}
+h1
+{
+    font-family:monospace;
+    background-color:blue
+}
+h2
+{
+    font-family:monospace;
+    background-color:lightblue
+}
+table
+{
+    font-family:Cambria;
+    background:white
+}
+.td 
+{
+    font-weight:bold;
+}
+.dashed
+{
+    border-style:dashed;
+    border-color:rgb(255, 192, 221);
+}
